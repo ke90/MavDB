@@ -3,6 +3,7 @@
 
 Dieses Repository enthält die Konfiguration für den SQL Server-Container, der die Datenbank für unser Mitarbeiterverzeichnis betreibt. Der Container kann leicht mit Docker Compose gestartet werden.
 
+Der Server läuft auf dem 1444 Port
 ## Voraussetzungen
 
 Bevor Sie beginnen, stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind:
